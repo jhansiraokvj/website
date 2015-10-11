@@ -1,0 +1,48 @@
+body {
+background-color:#A9A9A9;
+border:2px dotted black;}
+h1{
+background-color:grey;
+color:white;
+text-align:center;
+font-size:50px;}
+
+img {
+margin-left:100px;
+padding:10px;
+
+}
+ul#link li {
+padding:5px;
+margin-left:5px;
+display:inline;
+border:2px solid black;
+}
+ul {
+list-style-type:none;
+}
+
+p {
+color:#2F4F4F;
+font-size:20px;}
+pre {
+color:#8B4513;
+font-family:Monotype Corsiva;
+font-size:20px;}
+div#two img {
+margin-left:10px;
+padding:10px;
+width:500px;
+height:500px;
+border:2px solid grey;}
+pre {
+border:5px solid brown;}
+div form fieldset legend {
+font-size:50px;
+font-family:AR DARLING;
+color:#8B0000;}
+div form fieldset {
+border:5px solid #101010 ;}
+ol li {
+font-size:20px;
+color:#00008B;}
